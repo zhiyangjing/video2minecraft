@@ -1,0 +1,17 @@
+setblock -140 10 235 cobblestone
+setblock -141 10 235 cobblestone
+setblock -142 10 235 cobblestone
+setblock -143 10 235 cobblestone
+setblock -144 10 235 cobblestone
+setblock -145 10 235 cobblestone
+setblock -146 10 235 cobblestone
+setblock -147 10 235 cobblestone
+setblock -148 10 235 cobblestone
+setblock -149 10 235 cobblestone
+setblock -150 10 235 cobblestone
+setblock -151 10 235 cobblestone
+setblock -152 10 235 cobblestone
+setblock -153 10 235 cobblestone
+setblock -154 10 235 cobblestone
+setblock -155 10 235 cobblestone
+setblock -156 10 235 deepslate_copper_ore

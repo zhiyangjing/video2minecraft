@@ -18,7 +18,7 @@ import shutil
 """
 
 video_path = "./videos/"    # 默认地址 (Default video directory)
-video_name = "testmc203.mp4"  # 默认文件名 (Default video name)
+video_name = "testmc1.mp4"  # 默认文件名 (Default video name)
 name_space = "mine"        # 默认的命名空间 (Default name space)
 video_size = [352,198]      # 默认的输出尺寸,可以保持不变 (Default image size)
 interval = 1                # 读取mp4文件时帧数间隔，默认为2 (When reading MP4 files, the frame interval is 2 by default)
